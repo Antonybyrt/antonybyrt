@@ -7,10 +7,9 @@ I'm always exploring new tools and frameworks, and I love pushing the boundaries
 
 ## 🔭 About Me
 
-- 💻 I'm a dedicated software engineer with a strong focus on blockchain technologies.
+- 💻 I'm a software engineer with a strong focus on blockchain technologies.
 - 🌱 I believe in lifelong learning and constantly strive to improve my skills.
 - 👯 I enjoy collaborating and believe great things come from great teams.
-- ⚡ Fun fact: I love solving complex problems and turning ideas into real-world decentralized applications.
 
 ---
 
