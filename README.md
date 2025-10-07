@@ -32,6 +32,7 @@ I'm always exploring new tools and frameworks, and I love pushing the boundaries
 - Ethers.js
 - Wagmi
 - Taquito
+- Hardhat / Foundry / Remix
 
 ### Blockchain:
 - Ethereum, EVM chains
@@ -39,7 +40,6 @@ I'm always exploring new tools and frameworks, and I love pushing the boundaries
 - Solana
 - XRPL
 - Stellar
-- Hardhat / Foundry / Remix
 
 ### Databases & Tools:
 - PostgreSQL
